@@ -92,20 +92,52 @@
 **10. Expressing Anger Fully**
   * Distinguishing Stimulus From Cause
   * All Anger Has A Life-Serving Core
-  * 
+  * Stimulus Versus Cause: Practical Implications
+  * Four Steps To Expressing Anger
+  * Offering Empathy First
+  * Taking Our Time
+  * NVC In Action: Parent And Teen Dialogue A Life-Threatening Issue
 
 **11. Conflict Resolution and Mediation**
+ * Human Connection
+ * NVC Conflict Resolution Versus Traditional Mediation
+ * NVC Conflict Resolution Steps - A Quick Overview 
+ * On Needs, Strategies and Analysis
+ * Empathy To Easy The Pain That Prevents Hearing
+ * Using Present And Positive Action Language To Resolve Conflict
+ * Using Action Verbs
+ * Translating "No"
+ * NVC And The Mediator Role
+ * When People Say "No" To Meeting Face To Face
+ * Informal Mediation: Sticking Our Nose In Other People's Business
 
 **12. The Protective Use Of Force**
-
+ * When The Use Of Force Is Unavoidable
+ * The Thinking Behind The Use Of Force
+ * Types Of Punitive Force
+ * The Costs Of Punishment
+ * Two Questions That Reveal The Limitations Of Punishments
+ * The Protective Use Of Force In Schools
+ 
 **13. Liberating Ourselves And Counseling Others**
+ * Freeing Ourselves From Old Programming
+ * Resolving Internal Conflicts
+ * Caring For Our Inner Environment
+ * Replacing Diagnosis With NVC
+ * NVC In Action: Dealing With Resentment And Self-Judgment
 
 **14. Expressing Appreciation In Nonviolent Communication**
+ * The Intention Behind Appreciation
+ * The Three Components Of Appreciation
+ * Receiving Appreciation
+ * The Hunger For Appreciation
+ * Overcoming The Reluctance To Express Appreciation
 
 # Ideas for Presentation
 
 1. Use a few examples of the exercises 1, 2, 3, 4 and 5 a starting game to create curiosity and engagement.
 2. KEY POINT TO NOT LEAVE OUT: Making Requests Of A Group
+3. Chapiter 12 might be excluded or explained very briefely
 
 # My questions
 
