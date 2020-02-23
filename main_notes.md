@@ -144,8 +144,19 @@
 
 **01. Givin From The Heart**
   * Introduction
+    * NVC: a way of communicating that leads us to give from the heart.
   * A Way To Focus Attention
+    * We perceive relationships in a new light when we use NVC to hear our own deeper needs and those of others.
+    * Let's shine the light of consciousness on places where we can hope to find what we are seeking.
   * The NVC Process
+    * Four components of NVC:
+      1. observations: the concrete actions we observe that affect our well-being 
+      2. feelings: how we feel in relation to what we observe 
+      3. needs: the needs, values, desires, etc. that create our feelings 
+      4. requests: the concrete actions we request in order to enrich our lives 
+    * Two parts of NVC: 
+      1. Expressing honestly through the four components 
+      2. Receiving empathically through the four components 
   * Applying NVC In Our Lives And The World
   * NVC In Action: "Murderer, Assassin, Child-Killer!"
   
