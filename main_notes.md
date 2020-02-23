@@ -253,22 +253,54 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * NVC In Action: Sharing Fears About A Best Friend's Smoking 
   * Exercise 4: Expressing Requests 
 
-**07. Receiving Empathically**
-  * Presence: Don't Just Do Something, Stand There
-  * Listening For Feelings And Needs
-  * Paraphrasing
-  * Sustaining Empathy
-  * When Pain Blocks Our Ability To Empathize
-  * NVC In Action: A Wife Connects To Her Dying Husband
-  * Exercise 5: Receiving Empathically Versus Non-Empathically
+**07. Receiving Empathically** 
 
-**08. The Power Of Empathy**
-  * Empathy That Heals
-  * Empathy And The Ability To Be Vulnerable
-  * Using Empathy To Defuse Danger
-  * Empathy In Hearing Someone's "No!"
-  * Empathy To Revive A Lifeless Conversation
-  * Empathy For Silence
+The two parts of NVC: 
+  1. expressing honestly 
+  2. receiving honestly 
+
+  * Presence: Don't Just Do Something, Stand There 
+    * Empathy: emptying our mind and listening with our whole being. 
+    * Asking before offering advice and reassurance. 
+    * Intellectual understanding blocks empathy. 
+  * Listening For Feelings And Needs 
+    * No matter what others say, we only hear what they ate (1) observing, (2) feeling, (3) needing, and (4) requesting. 
+    * Listen to waht people are needing rather than what they are thinking. 
+  * Paraphrasing 
+    * When asking for information, first express our own feelings and needs. 
+    * Reflect back messages that are emotinally charged. 
+    * Paraphrase only when it contributes to greater compassion and understanding. 
+    * Behind intimidating messages are merely people appealing to us to meet their needs. 
+    * A difficult message becomes an opportunity to enrich someone's life. 
+    * Paraphrasing saves time. 
+  * Sustaining Empathy 
+    * When we stay with empathy, we allow speakers to touch deeper levels of theselves. 
+    * We know a speaker has received adequate empathy when (1) we sense a release of tension, or (2) the flow of words come to halt. 
+  * When Pain Blocks Our Ability To Empathize 
+    * We need empathy to give empathy. 
+  * NVC In Action: A Wife Connects To Her Dying Husband 
+  * Exercise 5: Receiving Empathically Versus Non-Empathically 
+
+**08. The Power Of Empathy** 
+  * Empathy That Heals 
+    * Empathy allows us "to reperceive [our] world in a new way and to go on." 
+    * "Don't just do something ...". 
+    * It is harder to empathize with those who appear to posses more power, status, or resources. 
+  * Empathy And The Ability To Be Vulnerable 
+    * The more we empathize with the other party, the safer we feel. 
+    * We "say a lot" by listening for the other people's feelings and needs. 
+  * Using Empathy To Defuse Danger 
+    * Rather than put your "but" in the face of an angry person, empathize. 
+    * When we listen for feelings and needs, we no longer see people as monster. 
+    * It may be difficult to empathize with those who are closest to us. 
+  * Empathy In Hearing Someone's "No!" 
+    * Empathizong with someone's "no" protects us from taking it personally. 
+  * Empathy To Revive A Lifeless Conversation 
+    * To bring a conversation back to life: interrupt with empathy. 
+    * What bores the listener bores the speaker too. 
+    * Speakers prefer that listeners interrupt rather than pretend to listen. 
+  * Empathy For Silence 
+    * Empathize with silence by listening for the feelings and needs behind it. 
   
 **09. Connecting Compassionately With Ourselves**
   * Remembering The Specialness Of What We Are
