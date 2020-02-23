@@ -179,36 +179,79 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
   
-**03. Observing Without Evaluating**
-  * The Highest Form Of Human Intelligence
-  * Distinguishing Observations From Evaluations
-  * NVC In Action: "The Most Arrogant Speaker We'Ve Ever Had!"
-  * Exercise 1: Observation or Evaluation?
+**03. Observing Without Evaluating** 
+
+When we combine observation with evaluation, people are apt to hear criticism. 
+
+  * The Highest Form Of Human Intelligence 
+  * Distinguishing Observations From Evaluations 
+  * NVC In Action: "The Most Arrogant Speaker We'Ve Ever Had!" 
+  * Exercise 1: Observation or Evaluation? 
   
-**04. Identifying And Expressing Feelings**
-  * The Heavy Cost Of Unexpressed Feelings
-  * Feelings Versus Non-Feelings
-  * Building a Vocabulary For Feelings
-  * Exercise 2: Expressing Feelings
+**04. Identifying And Expressing Feelings** 
+  * The Heavy Cost Of Unexpressed Feelings 
+    * Expressing vulnerability can help resolve conflicts. 
+  * Feelings Versus Non-Feelings 
+    * Distinguish feelings from thoughts. 
+    * Distinguish between what we feel and what we think we are. 
+    * Distinguish between what we feel and how we think others react or think toward us. 
+  * Building a Vocabulary For Feelings 
+  * Exercise 2: Expressing Feelings 
 
-**05. Taken Responsability For Our Fellings**
-  * Hearing A Negative Message: Four Options
-  * The Needs At The Roots Of Feelings
-  * The Pain Of Expressing Our Needs Versus The Pain Of Not Expressing Our Needs
-  * From Emotional Slavery to Emotional Liberation
-  * NVC In Action: "Bring Back The Stigma Of Illegitimacy!"
-  * Exercise 3: Acknowledging Needs
+**05. Taken Responsability For Our Fellings** 
+  * Hearing A Negative Message: Four Options 
+    * What others so may be the stimulus of our feelings, but not the cause. 
+    * Four options for receiving negative messages: 
+      1. blame ourselves. 
+      2. blame others. 
+      3. sense our own feelings and needs. 
+      4. sense others' feelings and needs. 
+    * Connect your feeling with your need: " I feel ... because I need ... ". 
+    * Distinguish between giving from the heart and being motivated by guilt. 
+  * The Needs At The Roots Of Feelings 
+    * Judgments of others are alienated expressions of our own unmet needs. 
+    * If we express our needs, we have a better chance of getting them met. 
+  * The Pain Of Expressing Our Needs Versus The Pain Of Not Expressing Our Needs 
+    * If we don't value our needs, others may not either. 
+  * From Emotional Slavery to Emotional Liberation 
+    * First stage: Emotional slavery. We see ourselves responsible for others' feelings. 
+    * Second stage: The obnoxious stage. We feel angry; we no longer want to be responsible for others' feelings. 
+    * Third stage: Emotional liberation. We take responsability for our own intentions and actions. 
+  * NVC In Action: "Bring Back The Stigma Of Illegitimacy!" 
+  * Exercise 3: Acknowledging Needs 
 
-**06. Requesting That Which Would Enrich Life**
-  * Using Positive Action Language
-  * Making Requests Consciously
-  * Asking For a Reflection
-  * Requesting Honesty
-  * Making Requests Of A Group
-  * Requests Versus Demands
-  * Defining Our Objective When Making Requests
-  * NVC In Action: Sharing Fears About A Best Friend's Smoking
-  * Exercise 4: Expressing Requests
+**06. Requesting That Which Would Enrich Life** 
+  * Using Positive Action Language 
+    * Use positive language when making requests. 
+    * Making requests in clear, positive, concrete action language reveals what we really want. 
+    * Vague language contributes to internal confusion. 
+    * Depression is the reward we get for being "good". 
+  * Making Requests Consciously 
+    * When we simply express our feelings, it may not be clear to the listener what we want them to do. 
+    * We are often not conscious of what we are requesting. 
+    * Requests may sound like demands when unaccompanied by the speaker's feelings and needs. 
+    * The clearer we are about what we want, the more likely it is that we'll get it. 
+  * Asking For a Reflection 
+    * To make sure the message we sent is the message that's received, ask the listener to reflect it back. 
+    * Express appreciation when your listener tries to meet your request for a reflection. 
+    * Empathize with the listener who doesn't want to reflect back. 
+  * Requesting Honesty 
+    * After we express ourselves vulnerably, we ofthen want to know: 
+      1. what the listener is feeling; 
+      2. what the listener is thinking; 
+      3. wether the listener would be willing to take a particular action. 
+  * Making Requests Of A Group 
+    * In a group, much time is wasted when speakers aren't certain what response they're wanting. 
+  * Requests Versus Demands 
+    * When the other person hears a demand from us, they see two options: to submit or to rebel. 
+    * To tell if it's a demand or a request, observe what the speaker does if the request is not complied with. 
+    * It's a demand if the speaker then criticizes or judges. 
+    * It's a demand if the speaker then lays a guilt trip. 
+    * It's a request of the speaker then shows empathy toward the other person's needs. 
+  * Defining Our Objective When Making Requests 
+    * Our objective is a relationship based on honesty and empathy. 
+  * NVC In Action: Sharing Fears About A Best Friend's Smoking 
+  * Exercise 4: Expressing Requests 
 
 **07. Receiving Empathically**
   * Presence: Don't Just Do Something, Stand There
