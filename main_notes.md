@@ -160,11 +160,24 @@
   * Applying NVC In Our Lives And The World
   * NVC In Action: "Murderer, Assassin, Child-Killer!"
   
-**02. Communication That Blocks Compassion**
-  * Moralistic Judgments
-  * Making Comparisons
-  * Denial Of Responsability
-  * Other Forms Of Life-Alienating Communication
+**02. Communication That Blocks Compassion**  
+
+Certain ways of communicating alienate us from our natural state of compassion.  
+
+  * Moralistic Judgments 
+    * In the world of judgments, our concdern centers on "who is what". 
+    * Analyses of others are actually expressions of our own needs. 
+    * Classifying and judging people promotes violence. 
+  * Making Comparisons 
+    * Comparisons are a form of judgment. 
+  * Denial Of Responsability 
+    * Our language obscures awareness of personal responsability. 
+    * We can replace language that implies lack of choice with language that acknowledges choice. 
+    * We are dangerous when we are not conscious of our responsability for how we behave, think, and fell. 
+  * Other Forms Of Life-Alienating Communication 
+    * We can never make people do anything. 
+    * Thinking based on "who deserves what" blocks compassionate communication. 
+    * Life-alienating communication has deep philosophical and political roots. 
   
 **03. Observing Without Evaluating**
   * The Highest Form Of Human Intelligence
