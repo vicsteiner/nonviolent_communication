@@ -1,3 +1,9 @@
+##### Table of Contents  
+[Index](#index)  
+[Index and Subtopics](#index-and-subtopics)  
+[Index and Subtopics Plus Key Points](#index-and-subtopics-plus-key-points)
+
+
 # Index
 
 01. Givin From The Heart
@@ -15,7 +21,7 @@
 13. Liberating Ourselves And Counseling Others
 14. Expressing Appreciation In Nonviolent Communication
 
-# Index & Subtopics
+# Index and Subtopics
 
 **01. Givin From The Heart**
   * Introduction
@@ -133,11 +139,14 @@
  * The Hunger For Appreciation
  * Overcoming The Reluctance To Express Appreciation
 
+# Index and Subtopics Plus Key Points
+
 # Ideas for Presentation
 
-1. Use a few examples of the exercises 1, 2, 3, 4 and 5 a starting game to create curiosity and engagement.
-2. KEY POINT TO NOT LEAVE OUT: Making Requests Of A Group
-3. Chapiter 12 might be excluded or explained very briefely
+* Use a few examples of the exercises 1, 2, 3, 4 and 5 a starting game to create curiosity and engagement.
+* KEY POINT TO NOT LEAVE OUT: Making Requests Of A Group
+* When talking about the assumption all humans have the same needs quote Clude Levi Strauss and Structuralism
+* Chapiter 12 might be excluded or explained very briefely
 
 # My questions
 
