@@ -302,16 +302,29 @@ The two parts of NVC:
   * Empathy For Silence 
     * Empathize with silence by listening for the feelings and needs behind it. 
   
-**09. Connecting Compassionately With Ourselves**
-  * Remembering The Specialness Of What We Are
-  * Evaluating Ourselves When We'Ve Been Less Than Perfect
-  * Translating Self-Judgments And Inner Demands
-  * NVC Mourning
-  * Self-Forgiveness
-  * The Lesson Of The Polka-Dotted Suit
-  * Don't Do Anything That Isn't Play!
-  * Translating "Have To" To "Choose To"
-  * Cultivating Awareness Of The Energy Behind Our Actions
+**09. Connecting Compassionately With Ourselves** 
+
+NVC's most important use may be in developing self-compassion.
+
+  * Remembering The Specialness Of What We Are 
+    * We use NVC to evaluate ourselves in ways that engender growth rather than self-hatred. 
+  * Evaluating Ourselves When We'Ve Been Less Than Perfect 
+    * Avoid shoulding yourself. 
+  * Translating Self-Judgments And Inner Demands 
+    * Sel-judgments, like all judgments, are tragic expressions of unmet needs. 
+  * NVC Mourning 
+    * NVC mourning: connecting with the feelings and unmet needs stimulated by past actions we now regret. 
+  * Self-Forgiveness 
+    * NVC self-forgiveness: connecting with the need we were trying to meet when we took the action that we now regret. 
+  * The Lesson Of The Polka-Dotted Suit 
+    * We are compassionate with ourselves when we are able to embrace all parts of ourselves and recognize the needs and values expressed by each part. 
+  * Don't Do Anything That Isn't Play! 
+    * We want to take action out of the desire to contribute to life rather than out of fear, guilt, shame, or obligation. 
+  * Translating "Have To" To "Choose To" 
+    * With every choice we make, be conscious of what need it serves. 
+  * Cultivating Awareness Of The Energy Behind Our Actions 
+    * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them. 
+    * The most dangerous of all behaviors may consist of doing things "because we're supposed to". 
 
 **10. Expressing Anger Fully**
   * Distinguishing Stimulus From Cause
