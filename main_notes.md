@@ -326,49 +326,117 @@ NVC's most important use may be in developing self-compassion.
     * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them. 
     * The most dangerous of all behaviors may consist of doing things "because we're supposed to". 
 
-**10. Expressing Anger Fully**
-  * Distinguishing Stimulus From Cause
-  * All Anger Has A Life-Serving Core
-  * Stimulus Versus Cause: Practical Implications
-  * Four Steps To Expressing Anger
-  * Offering Empathy First
-  * Taking Our Time
-  * NVC In Action: Parent And Teen Dialogue A Life-Threatening Issue
+**10. Expressing Anger Fully** 
 
-**11. Conflict Resolution and Mediation**
- * Human Connection
- * NVC Conflict Resolution Versus Traditional Mediation
+Hurting people is too superficial.
+
+  * Distinguishing Stimulus From Cause 
+    * We are never angry because of what others say or do. 
+    * To motivate by guilt, mix up stimulus and cause. 
+    * The cause of anger lies in our thinking - in thoughts of blame and judgment. 
+  * All Anger Has A Life-Serving Core 
+    * When we judge others, we contribute to violence. 
+    * Use anger as a wake-up call. 
+    * Anger co-opts our energy by diverting it toward punitive actions. 
+  * Stimulus Versus Cause: Practical Implications 
+    * When we become awae of our needs, anger gives way to life-serving feelings. 
+    * Violence comes from the belief that other people cause our pain and therefore deserve punishment. 
+    * We recall four options when hearing a difficult message: 
+      1. Blame ourselves 
+      2. Blame others 
+      3. Sense our own feelings and needs 
+      4. Sense others' feelings and needs
+    * Judgments of others contribute to self-fulfilling prophecies. 
+  * Four Steps To Expressing Anger 
+    * Steps to expressing anger: 
+      1. Stop. Breathe. 
+      2. Identify our judgmental thoughts. 
+      3. Connect with our needs. 
+      4. Express our feelings and unmet needs. 
+  * Offering Empathy First 
+    * The more we hear them, the more they'll here us. 
+    * Stay conscious of the violent thoughts that arise on our minds, without judging them. 
+    * When we hear another person's fellings and needs, we recognize our common humanity. 
+    * Our need is for the other person to truly hear our pain. 
+    * People do not hear our pain when they believe they are at fault. 
+  * Taking Our Time 
+    * Practice translating each judgment into an unmet need. 
+    * Take your time. 
+  * NVC In Action: Parent And Teen Dialogue A Life-Threatening Issue 
+
+**11. Conflict Resolution and Mediation** 
+ * Human Connection 
+   * Creating a connection between people is the most important thing. 
+ * NVC Conflict Resolution Versus Traditional Mediation 
+   * When you make the connection, the problem usually solves itself. 
  * NVC Conflict Resolution Steps - A Quick Overview 
- * On Needs, Strategies and Analysis
- * Empathy To Easy The Pain That Prevents Hearing
- * Using Present And Positive Action Language To Resolve Conflict
- * Using Action Verbs
- * Translating "No"
- * NVC And The Mediator Role
- * When People Say "No" To Meeting Face To Face
- * Informal Mediation: Sticking Our Nose In Other People's Business
+   * Avoid the use of language that implies wrongness. 
+ * On Needs, Strategies and Analysis 
+   * Intellectual analysis is often received as criticism. 
+   * Learn to hear needs regardless of how people express them. 
+   * Criticism and diagnosis get in the way of peaceful resolution of conflicts. 
+ * Empathy To Easy The Pain That Prevents Hearing 
+   * People often need empathy before they are able to hear what is being said. 
+ * Using Present And Positive Action Language To Resolve Conflict 
+ * Using Action Verbs 
+   * Action language requires the use of action verbs. 
+   * Maintaining respect is a key element in succesful conflict resolution. 
+ * Translating "No" 
+ * NVC And The Mediator Role 
+   * Your role, and trust in the process. 
+   * Remember: It's not about us. 
+     1. The objective is not to get the parties to do what we want them do do. 
+   * Emergency first-aid empathy. 
+   * Keep track: follow the bouncing ball. 
+   * Keep the conversation in the present. 
+   * Keep things moving. 
+     1. Use role-play to speed up the mediation process. 
+     2. Role-play is simply putting ourselves in the other person's shoes. 
+   * Interrupting. 
+     1. The purpose of interrupting is to restore the process. 
+ * When People Say "No" To Meeting Face To Face 
+ * Informal Mediation: Sticking Our Nose In Other People's Business 
+   * We need to be well practiced at hearing the need in any message. 
 
-**12. The Protective Use Of Force**
- * When The Use Of Force Is Unavoidable
- * The Thinking Behind The Use Of Force
- * Types Of Punitive Force
- * The Costs Of Punishment
- * Two Questions That Reveal The Limitations Of Punishments
- * The Protective Use Of Force In Schools
+**12. The Protective Use Of Force** 
+ * When The Use Of Force Is Unavoidable 
+ * The Thinking Behind The Use Of Force 
+   * The intention behind the protective use of force is only to protect, not to punish, blame, or condemn. 
+ * Types Of Punitive Force 
+   * Face of corporal punishmemt obscures children's awareness of the compassion underying their parents' demands. 
+   * Punishments also includes judgmental labeling and with-holding of privilegies. 
+ * The Costs Of Punishment 
+   * When we fear punishment, we focus on consequences, not on our own values. 
+   * Fear of punishment diminishes self-esteem and goodwill. 
+ * Two Questions That Reveal The Limitations Of Punishments 
+   * Question 1: What do I want thisperson to do? 
+   * QUestion 2: What do I want this person's reasons to be for doing it. 
+ * The Protective Use Of Force In Schools 
  
-**13. Liberating Ourselves And Counseling Others**
- * Freeing Ourselves From Old Programming
- * Resolving Internal Conflicts
- * Caring For Our Inner Environment
- * Replacing Diagnosis With NVC
- * NVC In Action: Dealing With Resentment And Self-Judgment
+**13. Liberating Ourselves And Counseling Others** 
+ * Freeing Ourselves From Old Programming 
+   * We can liberate ourselves from cultural conditioning. 
+ * Resolving Internal Conflicts 
+   * The ability to hear our own feelings and needs and empathize with them can free us from depression. 
+ * Caring For Our Inner Environment 
+   * Focus on what we want to do rather than what went wrong. 
+   * Defuse stress by hearing our own feelings and needs. 
+   * Defuse stress by empathizing with others. 
+ * Replacing Diagnosis With NVC 
+   * I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them. 
+ * NVC In Action: Dealing With Resentment And Self-Judgment 
 
-**14. Expressing Appreciation In Nonviolent Communication**
- * The Intention Behind Appreciation
- * The Three Components Of Appreciation
- * Receiving Appreciation
- * The Hunger For Appreciation
- * Overcoming The Reluctance To Express Appreciation
+**14. Expressing Appreciation In Nonviolent Communication** 
+ * The Intention Behind Appreciation 
+   * Compliments are often judgments - however positive - of others. 
+   * Express appreciation to celebrate, not to manipulate. 
+ * The Three Components Of Appreciation 
+   * Saying "thank you" in NVC: "This is what you did: this is what I feel; this is the need of mine that was met."
+ * Receiving Appreciation 
+   * Receive appreciation without feelings of superiority or false humility. 
+ * The Hunger For Appreciation 
+   * We tend to notice what's wrong rather than what's right. 
+ * Overcoming The Reluctance To Express Appreciation 
 
 # Ideas for Presentation
 
