@@ -75,7 +75,7 @@ Although I am not experiencing the same as the other I could potentially do, hen
 Certain ways of communicating alienate us from our natural state of compassion.  
 
   * Moralistic Judgments 
-    * In the world of judgments, our concdern centers on "who is what". 
+    * In the world of judgments, our concern centers on "who is what". 
     * Analyses of others are actually expressions of our own needs. 
     * Classifying and judging people promotes violence. 
   * Making Comparisons 
@@ -83,7 +83,7 @@ Certain ways of communicating alienate us from our natural state of compassion.
   * Denial Of Responsability 
     * Our language obscures awareness of personal responsability. 
     * We can replace language that implies lack of choice with language that acknowledges choice. 
-    * We are dangerous when we are not conscious of our responsability for how we behave, think, and fell. 
+    * We are dangerous when we are not conscious of our responsability for how we behave, think, and feel. 
   * Other Forms Of Life-Alienating Communication 
     * We can never make people do anything. 
     * Thinking based on "who deserves what" blocks compassionate communication. 
@@ -106,8 +106,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * The Highest Form Of Human Intelligence 
   * Distinguishing Observations From Evaluations 
 
-## 03-Summary 
-
 # 04-Identifying And Expressing Feelings 
 
   * The Heavy Cost Of Unexpressed Feelings 
@@ -117,8 +115,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * Distinguish between what we feel and what we think we are. 
     * Distinguish between what we feel and how we think others react or think toward us. 
   * Building a Vocabulary For Feelings 
-
-## 04-Summary 
 
 # 05-Taken Responsability For Our Fellings 
 
@@ -140,8 +136,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * First stage: Emotional slavery. We see ourselves responsible for others' feelings. 
     * Second stage: The obnoxious stage. We feel angry; we no longer want to be responsible for others' feelings. 
     * Third stage: Emotional liberation. We take responsability for our own intentions and actions. 
-
-## 05-Summary 
 
 # 06-Requesting That Which Would Enrich Life 
 
@@ -175,8 +169,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * Defining Our Objective When Making Requests 
     * Our objective is a relationship based on honesty and empathy. 
 
-## 06-Summary 
-
 # 07-Receiving Empathically 
 
 The two parts of NVC: 
@@ -203,8 +195,6 @@ The two parts of NVC:
   * When Pain Blocks Our Ability To Empathize 
     * We need empathy to give empathy. 
 
-## 07-Summary 
-
 # 08-The Power Of Empathy 
 
   * Empathy That Heals 
@@ -226,8 +216,6 @@ The two parts of NVC:
     * Speakers prefer that listeners interrupt rather than pretend to listen. 
   * Empathy For Silence 
     * Empathize with silence by listening for the feelings and needs behind it. 
-
-## 08-Summary 
 
 # 09-Connecting Compassionately With Ourselves 
 
@@ -252,8 +240,6 @@ NVC's most important use may be in developing self-compassion.
   * Cultivating Awareness Of The Energy Behind Our Actions 
     * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them. 
     * The most dangerous of all behaviors may consist of doing things "because we're supposed to". 
-
-## 09-Summary 
 
 # 10-Expressing Anger Fully 
 
@@ -292,8 +278,6 @@ Hurting people is too superficial.
     * Practice translating each judgment into an unmet need. 
     * Take your time. 
 
-## 10-Summary 
-
 # 11-Conflict Resolution And Mediation 
 
  * Human Connection 
@@ -329,8 +313,6 @@ Hurting people is too superficial.
  * Informal Mediation: Sticking Our Nose In Other People's Business 
    * We need to be well practiced at hearing the need in any message. 
 
-## 11-Summary 
-
 # 12-The Protective Use Of Force 
 
  * When The Use Of Force Is Unavoidable 
@@ -347,8 +329,6 @@ Hurting people is too superficial.
    * QUestion 2: What do I want this person's reasons to be for doing it? 
  * The Protective Use Of Force In Schools 
 
-## 12-Summary 
-
 # 13-Liberating Ourselves And Counseling Others 
 
  * Freeing Ourselves From Old Programming 
@@ -362,8 +342,6 @@ Hurting people is too superficial.
  * Replacing Diagnosis With NVC 
    * I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them. 
 
-## 13-Summary 
-
 # 14-Expressing Appreciation In Nonviolent Communication 
 
  * The Intention Behind Appreciation 
@@ -376,8 +354,6 @@ Hurting people is too superficial.
  * The Hunger For Appreciation 
    * We tend to notice what's wrong rather than what's right. 
  * Overcoming The Reluctance To Express Appreciation 
-
-## 14-Summary 
 
 # Ideas for Presentation
 
