@@ -4,6 +4,8 @@
 
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
 
+[Exercises](#exercises) 
+
 [03-Observing Without Evaluating](#03-observing-without-evaluating) 
 
 [04-Identifying And Expressing Feelings](#04-identifying-and-expressing-feelings) 
@@ -44,8 +46,6 @@
     * Two parts of NVC: 
       1. Expressing honestly through the four components 
       2. Receiving empathically through the four components 
-  * Applying NVC In Our Lives And The World
-  * NVC In Action: "Murderer, Assassin, Child-Killer!"
   
 # 02-Communication That Blocks Compassion 
 
@@ -65,6 +65,14 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * We can never make people do anything. 
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
+
+# Exercises 
+
+  * Exercise 1: Observation or Evaluation? 
+  * Exercise 2: Expressing Feelings 
+  * Exercise 3: Acknowledging Needs 
+  * Exercise 4: Expressing Requests 
+  * Exercise 5: Receiving Empathically Versus Non-Empathically 
   
 # 03-Observing Without Evaluating 
 
@@ -72,8 +80,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
 
   * The Highest Form Of Human Intelligence 
   * Distinguishing Observations From Evaluations 
-  * NVC In Action: "The Most Arrogant Speaker We'Ve Ever Had!" 
-  * Exercise 1: Observation or Evaluation? 
   
 # 04-Identifying And Expressing Feelings 
 
@@ -84,7 +90,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * Distinguish between what we feel and what we think we are. 
     * Distinguish between what we feel and how we think others react or think toward us. 
   * Building a Vocabulary For Feelings 
-  * Exercise 2: Expressing Feelings 
 
 # 05-Taken Responsability For Our Fellings 
 
@@ -106,8 +111,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * First stage: Emotional slavery. We see ourselves responsible for others' feelings. 
     * Second stage: The obnoxious stage. We feel angry; we no longer want to be responsible for others' feelings. 
     * Third stage: Emotional liberation. We take responsability for our own intentions and actions. 
-  * NVC In Action: "Bring Back The Stigma Of Illegitimacy!" 
-  * Exercise 3: Acknowledging Needs 
 
 # 06-Requesting That Which Would Enrich Life 
 
@@ -140,8 +143,6 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * It's a request of the speaker then shows empathy toward the other person's needs. 
   * Defining Our Objective When Making Requests 
     * Our objective is a relationship based on honesty and empathy. 
-  * NVC In Action: Sharing Fears About A Best Friend's Smoking 
-  * Exercise 4: Expressing Requests 
 
 # 07-Receiving Empathically 
 
@@ -168,8 +169,6 @@ The two parts of NVC:
     * We know a speaker has received adequate empathy when (1) we sense a release of tension, or (2) the flow of words come to halt. 
   * When Pain Blocks Our Ability To Empathize 
     * We need empathy to give empathy. 
-  * NVC In Action: A Wife Connects To Her Dying Husband 
-  * Exercise 5: Receiving Empathically Versus Non-Empathically 
 
 # 08-The Power Of Empathy 
 
@@ -253,7 +252,6 @@ Hurting people is too superficial.
   * Taking Our Time 
     * Practice translating each judgment into an unmet need. 
     * Take your time. 
-  * NVC In Action: Parent And Teen Dialogue A Life-Threatening Issue 
 
 # 11-Conflict Resolution And Mediation 
 
@@ -302,8 +300,8 @@ Hurting people is too superficial.
    * When we fear punishment, we focus on consequences, not on our own values. 
    * Fear of punishment diminishes self-esteem and goodwill. 
  * Two Questions That Reveal The Limitations Of Punishments 
-   * Question 1: What do I want thisperson to do? 
-   * QUestion 2: What do I want this person's reasons to be for doing it. 
+   * Question 1: What do I want this person to do? 
+   * QUestion 2: What do I want this person's reasons to be for doing it? 
  * The Protective Use Of Force In Schools 
  
 # 13-Liberating Ourselves And Counseling Others 
@@ -318,7 +316,6 @@ Hurting people is too superficial.
    * Defuse stress by empathizing with others. 
  * Replacing Diagnosis With NVC 
    * I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them. 
- * NVC In Action: Dealing With Resentment And Self-Judgment 
 
 # 14-Expressing Appreciation In Nonviolent Communication 
 
@@ -335,13 +332,14 @@ Hurting people is too superficial.
 
 # Ideas for Presentation
 
-* Use a few examples of the exercises 1, 2, 3, 4 and 5 a starting game to create curiosity and engagement.
-* KEY POINT TO NOT LEAVE OUT: Making Requests Of A Group
-* When talking about the assumption all humans have the same needs quote Clude Levi Strauss and Structuralism
-* Chapiter 12 might be excluded or explained very briefely
+* Use a few examples of the exercises 1, 2, 3, 4 and 5 a starting game to create curiosity and engagement. 
+* KEY POINT TO NOT LEAVE OUT: Making Requests Of A Group. 
+* When talking about the assumption all humans have the same needs quote Clude Levi Strauss and Structuralism. 
 
 # My Questions
 
 Does NVC works if we are talking to someone with a trained discourse? 
+
 Say a negotiatior from a country which has a completely rehearsed discourse. 
-Can we connect to someone if it is like there is not someone?
+
+Can we connect to someone if it is like there is not someone? 
