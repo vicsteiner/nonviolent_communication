@@ -1,66 +1,38 @@
 ##### Table of Contents  
 
+[Do we communicate violently?](#do-we-communicate-violently?)
+
 [01-Givin From The Heart](#01-givin-from-the-heart) 
 
-* [01-Summary](#01-summary) 
-
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
-
-* [02-Summary](#02-summary) 
 
 [Warming Exercises](#warming-exercises) 
 
 [03-Observing Without Evaluating](#03-observing-without-evaluating) 
 
-* [03-Summary](#03-summary) 
-
 [04-Identifying And Expressing Feelings](#04-identifying-and-expressing-feelings) 
-
-* [04-Summary](#04-summary) 
 
 [05-Taken Responsability For Our Fellings](#05-taken-responsability-for-our-fellings) 
 
-* [05-Summary](#05-summary) 
-
 [06-Requesting That Which Would Enrich Life](#06-requesting-that-which-would-enrich-life) 
-
-* [06-Summary](#06-summary) 
 
 [07-Receiving Empathically](#07-receiving-empathically) 
 
-* [07-Summary](#07-summary) 
-
 [08-The Power Of Empathy](#08-the-power-of-empathy) 
-
-* [08-Summary](#08-summary) 
 
 [09-Connecting Compassionately With Ourselves](#09-connecting-compassionately-with-ourselves) 
 
-* [09-Summary](#09-summary) 
-
 [10-Expressing Anger Fully](#10-expressing-anger-fully) 
-
-* [10-Summary](#10-summary) 
 
 [11-Conflict Resolution And Mediation](#11-conflict-resolution-and-mediation) 
 
-* [11-Summary](#11-summary) 
-
 [12-The Protective Use Of Force](#12-the-protective-use-of-force) 
-
-* [12-Summary](#12-summary) 
 
 [13-Liberating Ourselves And Counseling Others](#13-liberating-ourselves-and-counseling-others) 
 
-* [13-Summary](#13-summary) 
-
 [14-Expressing Appreciation In Nonviolent Communication](#14-expressing-appreciation-in-nonviolent-communication) 
 
-* [14-Summary](#14-summary) 
-
-# Start the discussion: NVC
-
-Do we communicate violently?
+# Do we communicate violently?
 
 ### *"If 'violent' means acting in ways that result in hurt or harm, then much of how we communicate could indeed be called  'violent' communication."*
 
