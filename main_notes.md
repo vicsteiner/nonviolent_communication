@@ -4,7 +4,7 @@
 
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
 
-[Exercises](#exercises) 
+[Warming Exercises](#warming-exercises) 
 
 [03-Observing Without Evaluating](#03-observing-without-evaluating) 
 
@@ -66,7 +66,7 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
 
-# Exercises 
+# Warming Exercises 
 
   * Exercise 1: Observation or Evaluation? 
   * Exercise 2: Expressing Feelings 
