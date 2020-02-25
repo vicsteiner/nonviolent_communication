@@ -8,13 +8,13 @@
 
 [04-Identifying And Expressing Feelings](#04-identifying-and-expressing-feelings) 
 
-[05-Taken Responsability For Our Fellings](#05-taken-tesponsability-for-our-fellings) 
+[05-Taken Responsability For Our Fellings](#05-taken-responsability-for-our-fellings) 
 
 [06-Requesting That Which Would Enrich Life](#06-requesting-that-which-would-enrich-life) 
 
 [07-Receiving Empathically](#07-receiving-empathically) 
 
-[08-The Power Of Empathy](#08-the-ñower-of-empathy) 
+[08-The Power Of Empathy](#08-the-power-of-empathy) 
 
 [09-Connecting Compassionately With Ourselves](#09-connecting-compassionately-with-ourselves) 
 
