@@ -2,33 +2,61 @@
 
 [01-Givin From The Heart](#01-givin-from-the-heart) 
 
+* [01-Summary](#01-summary) 
+
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
+
+* [02-Summary](#02-summary) 
 
 [Warming Exercises](#warming-exercises) 
 
 [03-Observing Without Evaluating](#03-observing-without-evaluating) 
 
+* [03-Summary](#03-summary) 
+
 [04-Identifying And Expressing Feelings](#04-identifying-and-expressing-feelings) 
+
+* [04-Summary](#04-summary) 
 
 [05-Taken Responsability For Our Fellings](#05-taken-responsability-for-our-fellings) 
 
+* [05-Summary](#05-summary) 
+
 [06-Requesting That Which Would Enrich Life](#06-requesting-that-which-would-enrich-life) 
+
+* [06-Summary](#06-summary) 
 
 [07-Receiving Empathically](#07-receiving-empathically) 
 
+* [07-Summary](#07-summary) 
+
 [08-The Power Of Empathy](#08-the-power-of-empathy) 
+
+* [08-Summary](#08-summary) 
 
 [09-Connecting Compassionately With Ourselves](#09-connecting-compassionately-with-ourselves) 
 
+* [09-Summary](#09-summary) 
+
 [10-Expressing Anger Fully](#10-expressing-anger-fully) 
+
+* [10-Summary](#10-summary) 
 
 [11-Conflict Resolution And Mediation](#11-conflict-resolution-and-mediation) 
 
+* [11-Summary](#11-summary) 
+
 [12-The Protective Use Of Force](#12-the-protective-use-of-force) 
+
+* [12-Summary](#12-summary) 
 
 [13-Liberating Ourselves And Counseling Others](#13-liberating-ourselves-and-counseling-others) 
 
+* [13-Summary](#13-summary) 
+
 [14-Expressing Appreciation In Nonviolent Communication](#14-expressing-appreciation-in-nonviolent-communication) 
+
+* [14-Summary](#14-summary) 
 
 # 01-Givin From The Heart 
 
@@ -46,7 +74,9 @@
     * Two parts of NVC: 
       1. Expressing honestly through the four components 
       2. Receiving empathically through the four components 
-  
+
+## 01-Summary 
+
 # 02-Communication That Blocks Compassion 
 
 Certain ways of communicating alienate us from our natural state of compassion.  
@@ -66,6 +96,8 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
 
+## 02-Summary 
+
 # Warming Exercises 
 
   * Exercise 1: Observation or Evaluation? 
@@ -80,7 +112,9 @@ When we combine observation with evaluation, people are apt to hear criticism.
 
   * The Highest Form Of Human Intelligence 
   * Distinguishing Observations From Evaluations 
-  
+
+## 03-Summary 
+
 # 04-Identifying And Expressing Feelings 
 
   * The Heavy Cost Of Unexpressed Feelings 
@@ -90,6 +124,8 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * Distinguish between what we feel and what we think we are. 
     * Distinguish between what we feel and how we think others react or think toward us. 
   * Building a Vocabulary For Feelings 
+
+## 04-Summary 
 
 # 05-Taken Responsability For Our Fellings 
 
@@ -111,6 +147,8 @@ When we combine observation with evaluation, people are apt to hear criticism.
     * First stage: Emotional slavery. We see ourselves responsible for others' feelings. 
     * Second stage: The obnoxious stage. We feel angry; we no longer want to be responsible for others' feelings. 
     * Third stage: Emotional liberation. We take responsability for our own intentions and actions. 
+
+## 05-Summary 
 
 # 06-Requesting That Which Would Enrich Life 
 
@@ -144,6 +182,8 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * Defining Our Objective When Making Requests 
     * Our objective is a relationship based on honesty and empathy. 
 
+## 06-Summary 
+
 # 07-Receiving Empathically 
 
 The two parts of NVC: 
@@ -170,6 +210,8 @@ The two parts of NVC:
   * When Pain Blocks Our Ability To Empathize 
     * We need empathy to give empathy. 
 
+## 07-Summary 
+
 # 08-The Power Of Empathy 
 
   * Empathy That Heals 
@@ -191,7 +233,9 @@ The two parts of NVC:
     * Speakers prefer that listeners interrupt rather than pretend to listen. 
   * Empathy For Silence 
     * Empathize with silence by listening for the feelings and needs behind it. 
-  
+
+## 08-Summary 
+
 # 09-Connecting Compassionately With Ourselves 
 
 NVC's most important use may be in developing self-compassion.
@@ -215,6 +259,8 @@ NVC's most important use may be in developing self-compassion.
   * Cultivating Awareness Of The Energy Behind Our Actions 
     * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them. 
     * The most dangerous of all behaviors may consist of doing things "because we're supposed to". 
+
+## 09-Summary 
 
 # 10-Expressing Anger Fully 
 
@@ -253,6 +299,8 @@ Hurting people is too superficial.
     * Practice translating each judgment into an unmet need. 
     * Take your time. 
 
+## 10-Summary 
+
 # 11-Conflict Resolution And Mediation 
 
  * Human Connection 
@@ -288,6 +336,8 @@ Hurting people is too superficial.
  * Informal Mediation: Sticking Our Nose In Other People's Business 
    * We need to be well practiced at hearing the need in any message. 
 
+## 11-Summary 
+
 # 12-The Protective Use Of Force 
 
  * When The Use Of Force Is Unavoidable 
@@ -303,7 +353,9 @@ Hurting people is too superficial.
    * Question 1: What do I want this person to do? 
    * QUestion 2: What do I want this person's reasons to be for doing it? 
  * The Protective Use Of Force In Schools 
- 
+
+## 12-Summary 
+
 # 13-Liberating Ourselves And Counseling Others 
 
  * Freeing Ourselves From Old Programming 
@@ -317,6 +369,8 @@ Hurting people is too superficial.
  * Replacing Diagnosis With NVC 
    * I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them. 
 
+## 13-Summary 
+
 # 14-Expressing Appreciation In Nonviolent Communication 
 
  * The Intention Behind Appreciation 
@@ -329,6 +383,8 @@ Hurting people is too superficial.
  * The Hunger For Appreciation 
    * We tend to notice what's wrong rather than what's right. 
  * Overcoming The Reluctance To Express Appreciation 
+
+## 14-Summary 
 
 # Ideas for Presentation
 
