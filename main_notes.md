@@ -44,11 +44,10 @@ Why the author himself thinks the title Nonviolent is not ideal?
 
 # 01-Givin From The Heart 
 
-  * Introduction
-    * NVC: a way of communicating that leads us to give from the heart.
-  * A Way To Focus Attention
-    * We perceive relationships in a new light when we use NVC to hear our own deeper needs and those of others.
-    * Let's shine the light of consciousness on places where we can hope to find what we are seeking.
+### What happens to to disconnect us from our compassionate nature, leading us to behave violently and exploitatively?
+
+### What allows some people to stay connected to their compassionate nature under even the most trying circumstances? 
+
   * The NVC Process
     * Four components of NVC:
       1. observations: the concrete actions we observe that affect our well-being 
