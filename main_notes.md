@@ -1,18 +1,31 @@
 ##### Table of Contents  
 
 [01-Givin From The Heart](#01-givin-from-the-heart) 
+
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
+
 [03-Observing Without Evaluating](#03-observing-without-evaluating) 
+
 [04-Identifying And Expressing Feelings](#04-identifying-and-expressing-feelings) 
+
 [05-Taken Responsability For Our Fellings](#05-taken-tesponsability-for-our-fellings) 
+
 [06-Requesting That Which Would Enrich Life](#06-requesting-that-which-would-enrich-life) 
+
 [07-Receiving Empathically](#07-receiving-empathically) 
+
 [08-The Power Of Empathy](#08-the-ñower-of-empathy) 
+
 [09-Connecting Compassionately With Ourselves](#09-connecting-compassionately-with-ourselves) 
+
 [10-Expressing Anger Fully](#10-expressing-anger-fully) 
+
 [11-Conflict Resolution And Mediation](#11-conflict-resolution-and-mediation) 
+
 [12-The Protective Use Of Force](#12-the-protective-use-of-force) 
+
 [13-Liberating Ourselves And Counseling Others](#13-liberating-ourselves-and-counseling-others) 
+
 [14-Expressing Appreciation In Nonviolent Communication](#14-expressing-appreciation-in-nonviolent-communication) 
 
 # 01-Givin From The Heart 
