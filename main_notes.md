@@ -2,7 +2,7 @@
 
 [Do we communicate violently?](#do-we-communicate-violently) 
 
-[01-Givin From The Heart](#01-givin-from-the-heart) 
+[01-Giving From The Heart](#01-giving-from-the-heart) 
 
 [02-Communication That Blocks Compassion](#02-communication-that-blocks-compassion) 
 
@@ -42,11 +42,23 @@ Why the author himself thinks the title Nonviolent is not ideal?
 
   * It is in negative mode, telling what we should not do instead of what we should do. 
 
-# 01-Givin From The Heart 
+# 01-Giving From The Heart 
 
-### What happens to to disconnect us from our compassionate nature, leading us to behave violently and exploitatively?
+#### What happens to to disconnect us from our compassionate nature, leading us to behave violently and exploitatively? 
 
-### What allows some people to stay connected to their compassionate nature under even the most trying circumstances? 
+#### What allows some people to stay connected to their compassionate nature under even the most trying circumstances? 
+
+A specific approach to communicating (both ways output and input) that allows us to re-connect with our compassionate nature. 
+
+I understand "compassionate nature" as the genuine desire of connection with other and with ourselves instead of diagnosing and judging. 
+
+NVC is a way to keep focus on the places where we are more likely to get what we are seeking. 
+
+If you communicate like that it is likely others around you will join it in a natural way. 
+
+I understand that what would allow this connection is the idea that underlying all human beens there exists a shared common ground or humanity. (Reminder structuralism and structural anthropolog of Claude Lévi-Strauss)
+
+Although I am not experiencing the same as the other I could potentially do, hence, I should be able to understand the others' fellings needs, and actions motivated by those. 
 
   * The NVC Process
     * Four components of NVC:
@@ -57,8 +69,6 @@ Why the author himself thinks the title Nonviolent is not ideal?
     * Two parts of NVC: 
       1. Expressing honestly through the four components 
       2. Receiving empathically through the four components 
-
-## 01-Summary 
 
 # 02-Communication That Blocks Compassion 
 
