@@ -1,6 +1,6 @@
 ##### Table of Contents  
 
-[Do we communicate violently?](#do-we-communicate-violently?)
+[Do we communicate violently?](#do-we-communicate-violently) 
 
 [01-Givin From The Heart](#01-givin-from-the-heart) 
 
@@ -32,7 +32,7 @@
 
 [14-Expressing Appreciation In Nonviolent Communication](#14-expressing-appreciation-in-nonviolent-communication) 
 
-# Do we communicate violently?
+# Do we communicate violently? 
 
 ### *"If 'violent' means acting in ways that result in hurt or harm, then much of how we communicate could indeed be called  'violent' communication."*
 
