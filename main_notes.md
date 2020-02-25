@@ -1,19 +1,19 @@
 ##### Table of Contents  
 
-[01. Givin From The Heart](#01.-givin-from-the-heart)
-[02. Communication That Blocks Compassion](#)
-[03. Observing Without Evaluating](#)
-[04. Identifying And Expressing Feelings](#)
-[05. Taken Responsability For Our Fellings](#)
-[06. Requesting That Which Would Enrich Life](#)
-[07. Receiving Empathically](#)
-[08. The Power Of Empathy](#)
-[09. Connecting Compassionately With Ourselves](#)
-[10. Expressing Anger Fully](#)
-[11. Conflict Resolution and Mediation](#)
-[12. The Protective Use Of Force](#)
-[13. Liberating Ourselves And Counseling Others](#)
-[14. Expressing Appreciation In Nonviolent Communication](#)
+[01-Givin From The Heart](#01-givin-from-the-heart) 
+[02. Communication That Blocks Compassion](#) 
+[03. Observing Without Evaluating](#) 
+[04. Identifying And Expressing Feelings](#) 
+[05. Taken Responsability For Our Fellings](#) 
+[06. Requesting That Which Would Enrich Life](#) 
+[07. Receiving Empathically](#) 
+[08. The Power Of Empathy](#) 
+[09. Connecting Compassionately With Ourselves](#) 
+[10. Expressing Anger Fully](#) 
+[11. Conflict Resolution and Mediation](#) 
+[12. The Protective Use Of Force](#) 
+[13. Liberating Ourselves And Counseling Others](#) 
+[14. Expressing Appreciation In Nonviolent Communication](#) 
 
 # **01. Givin From The Heart**
   * Introduction
@@ -33,7 +33,7 @@
   * Applying NVC In Our Lives And The World
   * NVC In Action: "Murderer, Assassin, Child-Killer!"
   
-**02. Communication That Blocks Compassion**  
+# **02. Communication That Blocks Compassion**  
 
 Certain ways of communicating alienate us from our natural state of compassion.  
 
@@ -52,7 +52,7 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
   
-**03. Observing Without Evaluating** 
+# **03. Observing Without Evaluating** 
 
 When we combine observation with evaluation, people are apt to hear criticism. 
 
@@ -61,7 +61,7 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * NVC In Action: "The Most Arrogant Speaker We'Ve Ever Had!" 
   * Exercise 1: Observation or Evaluation? 
   
-**04. Identifying And Expressing Feelings** 
+# **04. Identifying And Expressing Feelings** 
   * The Heavy Cost Of Unexpressed Feelings 
     * Expressing vulnerability can help resolve conflicts. 
   * Feelings Versus Non-Feelings 
@@ -71,7 +71,7 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * Building a Vocabulary For Feelings 
   * Exercise 2: Expressing Feelings 
 
-**05. Taken Responsability For Our Fellings** 
+# **05. Taken Responsability For Our Fellings** 
   * Hearing A Negative Message: Four Options 
     * What others so may be the stimulus of our feelings, but not the cause. 
     * Four options for receiving negative messages: 
@@ -93,7 +93,7 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * NVC In Action: "Bring Back The Stigma Of Illegitimacy!" 
   * Exercise 3: Acknowledging Needs 
 
-**06. Requesting That Which Would Enrich Life** 
+# **06. Requesting That Which Would Enrich Life** 
   * Using Positive Action Language 
     * Use positive language when making requests. 
     * Making requests in clear, positive, concrete action language reveals what we really want. 
@@ -126,7 +126,7 @@ When we combine observation with evaluation, people are apt to hear criticism.
   * NVC In Action: Sharing Fears About A Best Friend's Smoking 
   * Exercise 4: Expressing Requests 
 
-**07. Receiving Empathically** 
+# **07. Receiving Empathically** 
 
 The two parts of NVC: 
   1. expressing honestly 
@@ -154,7 +154,7 @@ The two parts of NVC:
   * NVC In Action: A Wife Connects To Her Dying Husband 
   * Exercise 5: Receiving Empathically Versus Non-Empathically 
 
-**08. The Power Of Empathy** 
+# **08. The Power Of Empathy** 
   * Empathy That Heals 
     * Empathy allows us "to reperceive [our] world in a new way and to go on." 
     * "Don't just do something ...". 
@@ -175,7 +175,7 @@ The two parts of NVC:
   * Empathy For Silence 
     * Empathize with silence by listening for the feelings and needs behind it. 
   
-**09. Connecting Compassionately With Ourselves** 
+# **09. Connecting Compassionately With Ourselves** 
 
 NVC's most important use may be in developing self-compassion.
 
@@ -199,7 +199,7 @@ NVC's most important use may be in developing self-compassion.
     * Be conscious of actions motivated by the desire for money or approval, and by fear, shame, or guilt. Know the price you pay for them. 
     * The most dangerous of all behaviors may consist of doing things "because we're supposed to". 
 
-**10. Expressing Anger Fully** 
+# **10. Expressing Anger Fully** 
 
 Hurting people is too superficial.
 
@@ -237,7 +237,7 @@ Hurting people is too superficial.
     * Take your time. 
   * NVC In Action: Parent And Teen Dialogue A Life-Threatening Issue 
 
-**11. Conflict Resolution and Mediation** 
+# **11. Conflict Resolution and Mediation** 
  * Human Connection 
    * Creating a connection between people is the most important thing. 
  * NVC Conflict Resolution Versus Traditional Mediation 
@@ -271,7 +271,7 @@ Hurting people is too superficial.
  * Informal Mediation: Sticking Our Nose In Other People's Business 
    * We need to be well practiced at hearing the need in any message. 
 
-**12. The Protective Use Of Force** 
+# **12. The Protective Use Of Force** 
  * When The Use Of Force Is Unavoidable 
  * The Thinking Behind The Use Of Force 
    * The intention behind the protective use of force is only to protect, not to punish, blame, or condemn. 
@@ -286,7 +286,7 @@ Hurting people is too superficial.
    * QUestion 2: What do I want this person's reasons to be for doing it. 
  * The Protective Use Of Force In Schools 
  
-**13. Liberating Ourselves And Counseling Others** 
+# **13. Liberating Ourselves And Counseling Others** 
  * Freeing Ourselves From Old Programming 
    * We can liberate ourselves from cultural conditioning. 
  * Resolving Internal Conflicts 
@@ -299,7 +299,7 @@ Hurting people is too superficial.
    * I empathized with clients instead of interpreting them; I revealed myself instead of diagnosing them. 
  * NVC In Action: Dealing With Resentment And Self-Judgment 
 
-**14. Expressing Appreciation In Nonviolent Communication** 
+# **14. Expressing Appreciation In Nonviolent Communication** 
  * The Intention Behind Appreciation 
    * Compliments are often judgments - however positive - of others. 
    * Express appreciation to celebrate, not to manipulate. 
