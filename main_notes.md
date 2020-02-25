@@ -58,6 +58,18 @@
 
 * [14-Summary](#14-summary) 
 
+# Start the discussion: NVC
+
+Do we communicate violently?
+
+### *"If 'violent' means acting in ways that result in hurt or harm, then much of how we communicate could indeed be called  'violent' communication."*
+
+If we do not know the pain, hurt or harm our words caused to others we might never realize we have been violent.
+
+Why the author himself thinks the title Nonviolent is not ideal?
+
+  * It is in negative mode, telling what we should not do instead of what we should do. 
+
 # 01-Givin From The Heart 
 
   * Introduction
