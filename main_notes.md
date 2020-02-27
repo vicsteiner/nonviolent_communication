@@ -89,8 +89,6 @@ Certain ways of communicating alienate us from our natural state of compassion.
     * Thinking based on "who deserves what" blocks compassionate communication. 
     * Life-alienating communication has deep philosophical and political roots. 
 
-## 02-Summary 
-
 # Warming Exercises 
 
   * Exercise 1: Observation or Evaluation? 
@@ -108,6 +106,32 @@ Certain ways of communicating alienate us from our natural state of compassion.
     
   * Exercise 2: Expressing Feelings 
   
+    1. "I feel you don't love me." 
+    2. "I'm sad that you are leaving." 
+    3. "I feel scared when you say that." 
+    4. "When you don't greet me, I feel neglected." 
+    5. "I'm happy that you can come." 
+    6. "You are disgusting." 
+    7. "I feel like hitting you." 
+    8. "I feel misunderstood." 
+    9. "I feel good about what you did for me." 
+    10. "I am worthless." 
+   
+  * Exercise 3: Acknowledging Needs
+  
+    1. "You irritate me when you leave company documents on the conference room floor." 
+    2. "I feel angry when you say that, because I am wanting respect and I hear your words as an insult." 
+    3. "I feel frustrated when you come late." 
+    4. "I am sad you won't be comingfor dinner because I was hoping we could spend the evening together." 
+    5. "I feel disappointed because you said you would do it and you didn't." 
+    6. "I am discoutaged because I would have liked to have progressed further in my work by now." 
+    7. "Little things people say sometimes hurt me." 
+    8. "I feel happy that you received that award." 
+    9. "I feel scared when you raise your voice." 
+    10. "I am grateful that you offered me a ride because I was needing to get home before my children arrive." 
+   
+  * Exercise 4: Expressing Requests 
+  
     1. "" 
     2. "" 
     3. "" 
@@ -119,10 +143,19 @@ Certain ways of communicating alienate us from our natural state of compassion.
     9. "" 
     10. "" 
    
-  * Exercise 3: Acknowledging Needs 
-  * Exercise 4: Expressing Requests 
   * Exercise 5: Receiving Empathically Versus Non-Empathically 
   
+    1. "" 
+    2. "" 
+    3. "" 
+    4. "" 
+    5. "" 
+    6. "" 
+    7. "" 
+    8. "" 
+    9. "" 
+    10. "" 
+   
 # 03-Observing Without Evaluating 
 
 When we combine observation with evaluation, people are apt to hear criticism. 
