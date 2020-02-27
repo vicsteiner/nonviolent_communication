@@ -94,7 +94,31 @@ Certain ways of communicating alienate us from our natural state of compassion.
 # Warming Exercises 
 
   * Exercise 1: Observation or Evaluation? 
+  
+    1. "John was angry with me yesterday for no reason." 
+    2. "Yesterday evening Nancy bit her fingernails while watching TV." 
+    3. "Sam didn't ask for my opinion during the meeting." 
+    4. "My father is a good man." 
+    5. "Janice works too much." 
+    6. "Henry is aggressive." 
+    7. "Pam was first in line every day this week." 
+    8. "My son often doesn't brush his teeth." 
+    9. "Luke told me I didn't look good in yellow." 
+    10. "My aunt complains when I talk with her." 
+    
   * Exercise 2: Expressing Feelings 
+  
+    1. "" 
+    2. "" 
+    3. "" 
+    4. "" 
+    5. "" 
+    6. "" 
+    7. "" 
+    8. "" 
+    9. "" 
+    10. "" 
+   
   * Exercise 3: Acknowledging Needs 
   * Exercise 4: Expressing Requests 
   * Exercise 5: Receiving Empathically Versus Non-Empathically 
