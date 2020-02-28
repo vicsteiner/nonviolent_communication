@@ -132,29 +132,16 @@ Certain ways of communicating alienate us from our natural state of compassion.
    
   * Exercise 4: Expressing Requests 
   
-    1. "" 
-    2. "" 
-    3. "" 
-    4. "" 
-    5. "" 
-    6. "" 
-    7. "" 
-    8. "" 
-    9. "" 
-    10. "" 
-   
-  * Exercise 5: Receiving Empathically Versus Non-Empathically 
-  
-    1. "" 
-    2. "" 
-    3. "" 
-    4. "" 
-    5. "" 
-    6. "" 
-    7. "" 
-    8. "" 
-    9. "" 
-    10. "" 
+    1. “I want you to understand me.” 
+    2. “I’d like you to tell me one thing that I did that ”
+    3. “I’d like you to feel more confidence in yourself.”
+    4. “I want you to stop drinking.”
+    5. “I’d like you to let me be me.”
+    6. "I’d like you to be honest with me about yesterday’s meeting.”
+    7. “I would like you to drive at or below the speed limit.”
+    8. “I’d like to get to know you better.”
+    9. “I would like you to show respect for my privacy.”
+    10. “I’d like you to prepare supper more often.”
    
 # 03-Observing Without Evaluating 
 
